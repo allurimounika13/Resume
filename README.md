@@ -24,7 +24,7 @@ Ensure you have Python installed (preferably Python 3.8 or later). You can downl
 ### Steps
 1. *Clone the repository*
    sh
-   git clone https://github.com/your-username/resume-screening.git
+   git clone https://github.com/allurimounika13/Resume/tree/main
    cd resume-screening
    
 2. *Create a virtual environment* (optional but recommended)
